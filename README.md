@@ -7,3 +7,10 @@ A simple app to keep track of destinations I'd like to visit.
 * Vietnam
 * Japan
 * Greece
+
+
+# List of Sites I want to visit (in no particular order)
+
+* Halong bay
+* Senso-ji
+* Parthenon
